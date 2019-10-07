@@ -1,5 +1,10 @@
 """
-@author: brianperez
+Created on Mon Sep  20 12:40:04 2019
+Course: CS 2302 - Data Structures
+Author: Brian Perez
+Assignment: Lab 2 
+Instructor: Diego Aguirre 
+D.O.L.M.: 10/7/19 (to write this)
 """
 def create_list(LL): 
     file = open("vivendi.txt", 'r') 
